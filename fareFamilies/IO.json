@@ -19,7 +19,7 @@
             },
             {
                 "code": "carryOn",
-				        "airplane": "SU9",
+				"airplane": "SU9",
                 "shortDescription": {
                     "ru": "1 место до 10 кг",
                     "en": "1 item up to 10 kg"
@@ -32,7 +32,7 @@
             },
 			{
                 "code": "carryOn",
-				        "airplane": "CR2",
+				"airplane": "CR2",
                 "shortDescription": {
                     "ru": "1 место до 10 кг",
                     "en": "1 item up to 10 kg"
@@ -45,7 +45,7 @@
             },
 			{
                 "code": "carryOn",
-				        "airplane": "AN4",
+				"airplane": "AN4",
                 "shortDescription": {
                     "ru": "1 место до 5 кг",
                     "en": "1 item up to 5 kg"
@@ -58,7 +58,7 @@
             },
 			{
                 "code": "carryOn",
-				        "airplane": "A26",
+				"airplane": "A26",
                 "shortDescription": {
                     "ru": "1 место до 5 кг",
                     "en": "1 item up to 5 kg"
@@ -71,7 +71,7 @@
             },
             {
                 "code": "baggage",
-				        "airplane": "SU9",
+				"airplane": "SU9",
                 "shortDescription": {
                   "ru": "Платный",
                   "en": "No free baggage allowance"
@@ -84,7 +84,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "CR2",
+				"airplane": "CR2",
                 "shortDescription": {
                   "ru": "Платный",
                   "en": "No free baggage allowance"
@@ -97,7 +97,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "AN4",
+				"airplane": "AN4",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -110,7 +110,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "A26",
+				"airplane": "A26",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -179,7 +179,7 @@
             },
             {
                 "code": "baggage",
-				        "airplane": "SU9",
+				"airplane": "SU9",
                 "shortDescription": {
                   "ru": "1 место до 20 кг",
                   "en": "1 item up to 20 kg"
@@ -192,7 +192,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "CR2",
+				"airplane": "CR2",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -205,7 +205,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "AN4",
+				"airplane": "AN4",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -218,7 +218,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "A26",
+				"airplane": "A26",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -287,7 +287,7 @@
             },
             {
                 "code": "baggage",
-				        "airplane": "SU9",
+				"airplane": "SU9",
                 "shortDescription": {
                   "ru": "1 место до 20 кг",
                   "en": "1 item up to 20 kg"
@@ -300,7 +300,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "CR2",
+				"airplane": "CR2",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -313,7 +313,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "AN4",
+				"airplane": "AN4",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
@@ -326,7 +326,7 @@
             },
 			{
                 "code": "baggage",
-				        "airplane": "A26",
+				"airplane": "A26",
                 "shortDescription": {
                   "ru": "1 место до 15 кг",
                   "en": "1 item up to 15 kg"
