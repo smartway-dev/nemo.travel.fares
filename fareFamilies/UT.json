@@ -484,7 +484,7 @@
                     "en": "Non-refundable",
                     "de": "Fare ist völlig nicht rückzahlbar"
                 },
-                "needToPay": "charge"
+                "needToPay": "notAvailable"
             },
             {
                 "code": "baggage",
