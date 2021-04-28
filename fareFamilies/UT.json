@@ -475,13 +475,13 @@
             {
                 "code": "refundable",
                 "shortDescription": {
-                    "ru": "Возврат билета разрешен со сбором",
-                    "en": "Refundable",
+                    "ru": "Тариф полностью невозвратный",
+                    "en": "Non-refundable",
                     "de": "Ticketrückerstattung"
                 },
                 "fullDescription": {
-                    "ru": "Тариф полностью невозвратный.Возврат билета до вылета разрешен со сбором",
-                    "en": "Ticket refund is allowed before departure with additional charges",
+                    "ru": "Тариф полностью невозвратный",
+                    "en": "Non-refundable",
                     "de": "Fare ist völlig nicht rückzahlbar"
                 },
                 "needToPay": "charge"
